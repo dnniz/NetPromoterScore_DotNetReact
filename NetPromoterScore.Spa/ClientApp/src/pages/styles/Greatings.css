@@ -1,0 +1,9 @@
+.greatings {
+    width: 100%;
+    min-height: calc(100vh - 60px);
+    background-color:  #1B1B25;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

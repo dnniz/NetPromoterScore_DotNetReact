@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NetPromoterScore.Data\NetPromoterScore.Data.csproj" />
+    <ProjectReference Include="..\NetPromoterScore.Entity\NetPromoterScore.Entity.csproj" />
+    <ProjectReference Include="..\NetPromoterScore.Security\NetPromoterScore.Security.csproj" />
+  </ItemGroup>
+
+</Project>
